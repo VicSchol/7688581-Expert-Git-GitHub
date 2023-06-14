@@ -8,9 +8,8 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 
 ### Pré-requis
 
-Aucun pré requis
 ```
-A définir
+Aucun pré requis
 
 ```
 
@@ -53,7 +52,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Victor SCHOLLER**
+* **Victor Scholler**
 
 ## License
 
